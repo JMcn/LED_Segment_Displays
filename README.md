@@ -8,6 +8,4 @@
 
 ## 最终效果
 
-<video src="http://o84t5lcxv.bkt.clouddn.com/LED.mp4" width="320" height="240" controls="controls">
-Your browser does not support the video tag.
-</video>
+[![ScreenShot](http://o84t5lcxv.bkt.clouddn.com/LED.jpg)](http://o84t5lcxv.bkt.clouddn.com/LED.mp4)
